@@ -87,6 +87,8 @@ ___
 我是C++码农
 你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
 ```
+或者在首部```的后面直接添加编程语言名称，
+下面是python代码块：
 ```python
 # this block is python script style
 import requests
