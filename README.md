@@ -87,6 +87,11 @@ ___
 我是C++码农
 你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
 ```
+```python
+# this block is python script style
+import requests
+content = requests.get("http://github.com").content
+```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
 文字高亮功能能使行内部分文字高亮，使用一对反引号。
