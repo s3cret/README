@@ -147,7 +147,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|---|----
-|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "悬停显示")`|![baidu](http://www.baidu.com/img/bdlogo.gif "悬停显示")
 |2|`![][foryou]`|![][foryou]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
@@ -394,6 +394,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 ```diff
 + 鸟宿池边树，僧敲月下门
 - 鸟宿池边树，僧推月下门
++ Just do it. --Nike
 ```
 
 
